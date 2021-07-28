@@ -1,3 +1,3 @@
 # New Repo
 
-Check out (Docs)[docs/index.html]
+Check out [Docs](docs/index.html)
