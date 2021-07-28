@@ -4,7 +4,6 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "build0": "documentation build src/** --config config/documentation.yml --github --sort-order 'alpha' -f html -o docs",
         "build": "documentation build src/** --config config/documentation.yml --sort-order 'alpha' -f html -o docs"
     },
